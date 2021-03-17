@@ -1,4 +1,4 @@
-# high_school_game_design
+# Game_Design-High_School_2013-2014
 
 I took a class in high school on game design. It was anticlimactic after learning Java because it was drag and drop. 
 
